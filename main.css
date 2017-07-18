@@ -1,0 +1,25 @@
+h1.label{
+	font-size: 32px;
+	color:peachpuff;
+	margin:10px;
+	padding: 
+}
+.label{
+	font-size: 18px;
+	color: maroon;
+}
+span.label{
+	font-size: 16px;
+}
+form div{
+	border:2px dashed blue;
+}
+form{
+	height:60%;
+	width:60%;
+	background-color: burlywood;
+	border-radius: 10px;
+}
+body {
+	background-color: red;
+}
